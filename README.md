@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Samuel Chinemeerem(Neme)
-[C:\Users\SAM\Desktop\Dextop Fold\Documents\PMT\Web dev\Nemecd\git_pic.png]
+![git_pic](https://user-images.githubusercontent.com/77585588/110950935-be616200-8344-11eb-9595-abc78c84783a.png)
+
 - 🔭 I’m currently working as a trainee at peace Tech
 - 🌱 I’m currently learning Web development
 - 👯 I’m looking to collaborate on Frontend and Backend development
