@@ -1,5 +1,4 @@
-### Hi there 👋 I'm Samuel Chinemeerem(Neme)
-![git_pic](https://user-images.githubusercontent.com/77585588/110950935-be616200-8344-11eb-9595-abc78c84783a.png)
+### Hi there 👋 I'm Samuel Chinemerem(Neme)
 
 - 🔭 I’m currently working as a trainee at peace Tech
 - 🌱 I’m currently learning Web development
