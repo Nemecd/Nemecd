@@ -1,5 +1,6 @@
 
-https://user-images.githubusercontent.com/77585588/111024809-f74f1480-83e0-11eb-9a03-a494b1ba4fd8.mp4
+![Moviefontz_210313075104](https://user-images.githubusercontent.com/77585588/111031817-ab649580-8409-11eb-9a23-dd905f98290f.gif)
+
 
 ### Hi Folks 👋 I'm Samuel Chinemerem(Neme)
 
@@ -8,7 +9,7 @@ https://user-images.githubusercontent.com/77585588/111024809-f74f1480-83e0-11eb-
 - 👯 I’m looking to Working Team
 - 🤔 I’m looking for help with Recent tech
 - 💬 Ask me about Frontend
-- 📫 How to reach me: https://www.linkedin.com/in/samuel-chinemerem-783137208/
+- 📫 How to reach me: [LinkdIn(https://www.linkedin.com/in/samuel-chinemerem-783137208/)]
 - 😄 Pronouns: He/Him
 
 
